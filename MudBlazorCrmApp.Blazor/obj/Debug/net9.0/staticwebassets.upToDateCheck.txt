@@ -1,0 +1,9 @@
+C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Blazor\wwwroot\favicon.ico
+C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Blazor\wwwroot\manifest.webmanifest
+C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Blazor\wwwroot\index.html
+wwwroot\favicon.ico
+wwwroot\favicon.png
+wwwroot\icon-192.png
+wwwroot\icon-512.png
+wwwroot\index.html
+wwwroot\manifest.webmanifest

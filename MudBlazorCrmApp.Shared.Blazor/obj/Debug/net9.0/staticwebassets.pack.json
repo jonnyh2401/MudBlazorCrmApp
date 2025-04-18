@@ -1,0 +1,277 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MudBlazorCrmApp.Shared.Blazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MudBlazorCrmApp.Shared.Blazor.98ylriknvt.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\300.css",
+      "PackagePath": "staticwebassets\\lib\\roboto\\300.css"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\400.css",
+      "PackagePath": "staticwebassets\\lib\\roboto\\400.css"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\500.css",
+      "PackagePath": "staticwebassets\\lib\\roboto\\500.css"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\700.css",
+      "PackagePath": "staticwebassets\\lib\\roboto\\700.css"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\roboto"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-cyrillic-300-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-cyrillic-300-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-cyrillic-300-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-cyrillic-300-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-cyrillic-400-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-cyrillic-400-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-cyrillic-400-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-cyrillic-400-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-cyrillic-500-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-cyrillic-500-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-cyrillic-500-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-cyrillic-500-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-cyrillic-700-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-cyrillic-700-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-cyrillic-700-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-cyrillic-700-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-cyrillic-ext-300-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-cyrillic-ext-300-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-cyrillic-ext-300-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-cyrillic-ext-300-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-cyrillic-ext-400-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-cyrillic-ext-400-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-cyrillic-ext-400-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-cyrillic-ext-400-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-cyrillic-ext-500-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-cyrillic-ext-500-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-cyrillic-ext-500-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-cyrillic-ext-500-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-cyrillic-ext-700-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-cyrillic-ext-700-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-cyrillic-ext-700-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-cyrillic-ext-700-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-greek-300-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-greek-300-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-greek-300-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-greek-300-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-greek-400-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-greek-400-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-greek-400-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-greek-400-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-greek-500-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-greek-500-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-greek-500-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-greek-500-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-greek-700-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-greek-700-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-greek-700-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-greek-700-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-greek-ext-300-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-greek-ext-300-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-greek-ext-300-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-greek-ext-300-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-greek-ext-400-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-greek-ext-400-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-greek-ext-400-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-greek-ext-400-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-greek-ext-500-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-greek-ext-500-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-greek-ext-500-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-greek-ext-500-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-greek-ext-700-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-greek-ext-700-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-greek-ext-700-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-greek-ext-700-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-latin-300-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-latin-300-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-latin-300-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-latin-300-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-latin-400-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-latin-400-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-latin-400-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-latin-400-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-latin-500-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-latin-500-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-latin-500-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-latin-500-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-latin-700-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-latin-700-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-latin-700-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-latin-700-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-latin-ext-300-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-latin-ext-300-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-latin-ext-300-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-latin-ext-300-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-latin-ext-400-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-latin-ext-400-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-latin-ext-400-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-latin-ext-400-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-latin-ext-500-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-latin-ext-500-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-latin-ext-500-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-latin-ext-500-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-latin-ext-700-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-latin-ext-700-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-latin-ext-700-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-latin-ext-700-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-vietnamese-300-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-vietnamese-300-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-vietnamese-300-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-vietnamese-300-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-vietnamese-400-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-vietnamese-400-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-vietnamese-400-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-vietnamese-400-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-vietnamese-500-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-vietnamese-500-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-vietnamese-500-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-vietnamese-500-normal.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-vietnamese-700-normal.woff",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-vietnamese-700-normal.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared.Blazor\\wwwroot\\lib\\roboto\\files\\roboto-vietnamese-700-normal.woff2",
+      "PackagePath": "staticwebassets\\lib\\roboto\\files\\roboto-vietnamese-700-normal.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MudBlazorCrmApp.Shared.Blazor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MudBlazorCrmApp.Shared.Blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MudBlazorCrmApp.Shared.Blazor.props",
+      "PackagePath": "build\\MudBlazorCrmApp.Shared.Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MudBlazorCrmApp.Shared.Blazor.props",
+      "PackagePath": "buildMultiTargeting\\MudBlazorCrmApp.Shared.Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MudBlazorCrmApp.Shared.Blazor.props",
+      "PackagePath": "buildTransitive\\MudBlazorCrmApp.Shared.Blazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

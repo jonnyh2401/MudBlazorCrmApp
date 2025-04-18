@@ -1,0 +1,13 @@
+C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Shared\bin\Debug\net9.0\MudBlazorCrmApp.Shared.deps.json
+C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Shared\bin\Debug\net9.0\MudBlazorCrmApp.Shared.dll
+C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Shared\bin\Debug\net9.0\MudBlazorCrmApp.Shared.pdb
+C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Shared\obj\Debug\net9.0\MudBlazorCrmApp.Shared.csproj.AssemblyReference.cache
+C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Shared\obj\Debug\net9.0\MudBlazorCrmApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Shared\obj\Debug\net9.0\MudBlazorCrmApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Shared\obj\Debug\net9.0\MudBlazorCrmApp.Shared.AssemblyInfo.cs
+C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Shared\obj\Debug\net9.0\MudBlazorCrmApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Shared\obj\Debug\net9.0\MudBlazorCrmApp.Shared.sourcelink.json
+C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Shared\obj\Debug\net9.0\MudBlazorCrmApp.Shared.dll
+C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Shared\obj\Debug\net9.0\refint\MudBlazorCrmApp.Shared.dll
+C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Shared\obj\Debug\net9.0\MudBlazorCrmApp.Shared.pdb
+C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Shared\obj\Debug\net9.0\ref\MudBlazorCrmApp.Shared.dll

@@ -1,0 +1,127 @@
+2025-04-18 13:39:27.529 +00:00 [INF] User profile is available. Using 'C:\Users\Jonny\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-18 13:39:29.234 +00:00 [INF] Executed DbCommand (84ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2025-04-18 13:39:29.246 +00:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2025-04-18 13:39:29.414 +00:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2025-04-18 13:39:29.414 +00:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsLock' AND "type" = 'table';
+2025-04-18 13:39:29.419 +00:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT OR IGNORE INTO "__EFMigrationsLock"("Id", "Timestamp") VALUES(1, '2025-04-18 13:39:29.414857+00:00');
+SELECT changes();
+2025-04-18 13:39:29.461 +00:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE IF NOT EXISTS "__EFMigrationsHistory" (
+    "MigrationId" TEXT NOT NULL CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY,
+    "ProductVersion" TEXT NOT NULL
+);
+2025-04-18 13:39:29.466 +00:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2025-04-18 13:39:29.466 +00:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2025-04-18 13:39:29.469 +00:00 [INF] No migrations were applied. The database is already up to date.
+2025-04-18 13:39:29.471 +00:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DELETE FROM "__EFMigrationsLock";
+2025-04-18 13:39:29.825 +00:00 [INF] Now listening on: https://localhost:5026
+2025-04-18 13:39:29.825 +00:00 [INF] Now listening on: http://localhost:5025
+2025-04-18 13:39:29.987 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-18 13:39:29.987 +00:00 [INF] Hosting environment: Development
+2025-04-18 13:39:29.987 +00:00 [INF] Content root path: C:\Users\Jonny\source\repos\MudBlazorCrmApp\MudBlazorCrmApp\bin\Debug\net9.0
+2025-04-18 13:39:34.293 +00:00 [INF] Request starting HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A50134%2Fdevtools%2Fbrowser%2F40ae7284-f36a-447b-9e89-6512883092fb - null null
+2025-04-18 13:39:34.579 +00:00 [INF] Request finished HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A50134%2Fdevtools%2Fbrowser%2F40ae7284-f36a-447b-9e89-6512883092fb - 302 0 null 290.7624ms
+2025-04-18 13:39:35.044 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/ - null null
+2025-04-18 13:39:35.101 +00:00 [INF] Executing endpoint 'Fallback {*path:nonfile}'
+2025-04-18 13:39:35.106 +00:00 [INF] The file /index.html was not modified
+2025-04-18 13:39:35.107 +00:00 [INF] Executed endpoint 'Fallback {*path:nonfile}'
+2025-04-18 13:39:35.111 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/index.html - 304 null text/html 67.4563ms
+2025-04-18 13:39:35.130 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_content/MudBlazorCrmApp.Shared.Blazor/lib/roboto/300.css - null null
+2025-04-18 13:39:35.134 +00:00 [INF] The file /_content/MudBlazorCrmApp.Shared.Blazor/lib/roboto/300.css was not modified
+2025-04-18 13:39:35.135 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_content/MudBlazorCrmApp.Shared.Blazor/lib/roboto/300.css - 304 null text/css 5.1625ms
+2025-04-18 13:39:35.135 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_content/MudBlazorCrmApp.Shared.Blazor/lib/roboto/400.css - null null
+2025-04-18 13:39:35.135 +00:00 [INF] The file /_content/MudBlazorCrmApp.Shared.Blazor/lib/roboto/400.css was not modified
+2025-04-18 13:39:35.135 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_content/MudBlazorCrmApp.Shared.Blazor/lib/roboto/400.css - 304 null text/css 0.5032ms
+2025-04-18 13:39:35.136 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_content/MudBlazorCrmApp.Shared.Blazor/lib/roboto/500.css - null null
+2025-04-18 13:39:35.136 +00:00 [INF] The file /_content/MudBlazorCrmApp.Shared.Blazor/lib/roboto/500.css was not modified
+2025-04-18 13:39:35.136 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_content/MudBlazorCrmApp.Shared.Blazor/lib/roboto/500.css - 304 null text/css 0.374ms
+2025-04-18 13:39:35.136 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-18 13:39:35.136 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_content/MudBlazorCrmApp.Shared.Blazor/lib/roboto/700.css - null null
+2025-04-18 13:39:35.137 +00:00 [INF] The file /_content/MudBlazorCrmApp.Shared.Blazor/lib/roboto/700.css was not modified
+2025-04-18 13:39:35.137 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_content/MudBlazorCrmApp.Shared.Blazor/lib/roboto/700.css - 304 null text/css 0.4073ms
+2025-04-18 13:39:35.137 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_content/MudBlazor/MudBlazor.min.css - null null
+2025-04-18 13:39:35.137 +00:00 [INF] The file /_content/MudBlazor/MudBlazor.min.css was not modified
+2025-04-18 13:39:35.137 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_content/MudBlazor/MudBlazor.min.css - 304 null text/css 0.3773ms
+2025-04-18 13:39:35.137 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_content/MudBlazorCrmApp.Shared.Blazor/css/app.css - null null
+2025-04-18 13:39:35.138 +00:00 [INF] The file /_content/MudBlazorCrmApp.Shared.Blazor/css/app.css was not modified
+2025-04-18 13:39:35.138 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_content/MudBlazorCrmApp.Shared.Blazor/css/app.css - 304 null text/css 0.4125ms
+2025-04-18 13:39:35.138 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/MudBlazorCrmApp.Blazor.styles.css - null null
+2025-04-18 13:39:35.139 +00:00 [INF] The file /MudBlazorCrmApp.Blazor.styles.css was not modified
+2025-04-18 13:39:35.139 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/MudBlazorCrmApp.Blazor.styles.css - 304 null text/css 0.5029ms
+2025-04-18 13:39:35.139 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_content/MudBlazor/MudBlazor.min.js - null null
+2025-04-18 13:39:35.139 +00:00 [INF] The file /_content/MudBlazor/MudBlazor.min.js was not modified
+2025-04-18 13:39:35.139 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_content/MudBlazor/MudBlazor.min.js - 304 null text/javascript 0.3823ms
+2025-04-18 13:39:35.139 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_framework/blazor.webassembly.js - null null
+2025-04-18 13:39:35.148 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_framework/aspnetcore-browser-refresh.js - 200 16515 application/javascript; charset=utf-8 11.5964ms
+2025-04-18 13:39:35.171 +00:00 [INF] The file /_framework/blazor.webassembly.js.gz was not modified
+2025-04-18 13:39:35.171 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_framework/blazor.webassembly.js.gz - 304 null text/javascript 31.9282ms
+2025-04-18 13:39:35.266 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_content/MudBlazorCrmApp.Shared.Blazor/MudBlazorCrmApp.Shared.Blazor.98ylriknvt.bundle.scp.css - null null
+2025-04-18 13:39:35.266 +00:00 [INF] The file /_content/MudBlazorCrmApp.Shared.Blazor/MudBlazorCrmApp.Shared.Blazor.98ylriknvt.bundle.scp.css was not modified
+2025-04-18 13:39:35.266 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_content/MudBlazorCrmApp.Shared.Blazor/MudBlazorCrmApp.Shared.Blazor.98ylriknvt.bundle.scp.css - 304 null text/css 0.7074ms
+2025-04-18 13:39:35.281 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_content/MudBlazorCrmApp.Shared.Blazor/lib/roboto/files/roboto-latin-500-normal.woff2 - null null
+2025-04-18 13:39:35.281 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_content/MudBlazorCrmApp.Shared.Blazor/lib/roboto/files/roboto-latin-400-normal.woff2 - null null
+2025-04-18 13:39:35.282 +00:00 [INF] The file /_content/MudBlazorCrmApp.Shared.Blazor/lib/roboto/files/roboto-latin-400-normal.woff2 was not modified
+2025-04-18 13:39:35.282 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_content/MudBlazorCrmApp.Shared.Blazor/lib/roboto/files/roboto-latin-400-normal.woff2 - 304 null font/woff2 0.6434ms
+2025-04-18 13:39:35.283 +00:00 [INF] The file /_content/MudBlazorCrmApp.Shared.Blazor/lib/roboto/files/roboto-latin-500-normal.woff2 was not modified
+2025-04-18 13:39:35.283 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_content/MudBlazorCrmApp.Shared.Blazor/lib/roboto/files/roboto-latin-500-normal.woff2 - 304 null font/woff2 2.1259ms
+2025-04-18 13:39:35.288 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_framework/dotnet.js - null null
+2025-04-18 13:39:35.297 +00:00 [INF] The file /_framework/dotnet.js.gz was not modified
+2025-04-18 13:39:35.298 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_framework/dotnet.js.gz - 304 null text/javascript 10.45ms
+2025-04-18 13:39:35.306 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/manifest.webmanifest - null null
+2025-04-18 13:39:35.306 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_framework/blazor.boot.json - null null
+2025-04-18 13:39:35.306 +00:00 [INF] The file /manifest.webmanifest was not modified
+2025-04-18 13:39:35.306 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/manifest.webmanifest - 304 null application/manifest+json 0.7457ms
+2025-04-18 13:39:35.330 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/icon-192.png - null null
+2025-04-18 13:39:35.331 +00:00 [INF] The file /icon-192.png was not modified
+2025-04-18 13:39:35.331 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/icon-192.png - 304 null image/png 0.7941ms
+2025-04-18 13:39:35.332 +00:00 [INF] Request starting HTTP/1.1 GET https://localhost:5026/_framework/dotnet.js.map - null null
+2025-04-18 13:39:35.341 +00:00 [INF] Sending file. Request path: '/_framework/blazor.boot.json.gz'. Physical path: 'C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Blazor\obj\Debug\net9.0\compressed\f3pfia67k3-6s62txrb6y.gz'
+2025-04-18 13:39:35.341 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_framework/blazor.boot.json.gz - 200 12949 application/json 35.4266ms
+2025-04-18 13:39:35.348 +00:00 [INF] Sending file. Request path: '/_framework/dotnet.js.map.gz'. Physical path: 'C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Blazor\obj\Debug\net9.0\compressed\swlqotpsfr-2do3f0gccv.gz'
+2025-04-18 13:39:35.348 +00:00 [INF] Request finished HTTP/1.1 GET https://localhost:5026/_framework/dotnet.js.map.gz - 200 21067 text/plain 16.5202ms
+2025-04-18 13:39:35.349 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_framework/dotnet.runtime.cymp1amu5g.js - null null
+2025-04-18 13:39:35.349 +00:00 [INF] The file /_framework/dotnet.runtime.cymp1amu5g.js.gz was not modified
+2025-04-18 13:39:35.350 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_framework/dotnet.runtime.cymp1amu5g.js.gz - 304 null text/javascript 0.8927ms
+2025-04-18 13:39:35.350 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_framework/dotnet.native.hvg7u8bimp.js - null null
+2025-04-18 13:39:35.350 +00:00 [INF] The file /_framework/dotnet.native.hvg7u8bimp.js.gz was not modified
+2025-04-18 13:39:35.350 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_framework/dotnet.native.hvg7u8bimp.js.gz - 304 null text/javascript 0.6514ms
+2025-04-18 13:39:35.494 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_framework/MudBlazorCrmApp.Shared.Blazor.5iqmb5z7vb.pdb - null null
+2025-04-18 13:39:35.517 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_framework/MudBlazorCrmApp.Shared.1vokl0zhq7.pdb - null null
+2025-04-18 13:39:35.558 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_framework/MudBlazorCrmApp.Shared.Blazor.9dvikf7y8o.wasm - null null
+2025-04-18 13:39:35.585 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_framework/MudBlazorCrmApp.Shared.adgiqc3hn7.wasm - null null
+2025-04-18 13:39:35.585 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_framework/MudBlazorCrmApp.Blazor.4zprfbt9iu.wasm - null null
+2025-04-18 13:39:35.611 +00:00 [INF] Sending file. Request path: '/_framework/MudBlazorCrmApp.Blazor.4zprfbt9iu.wasm.gz'. Physical path: 'C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Blazor\obj\Debug\net9.0\compressed\cypnz2frf9-4zprfbt9iu.gz'
+2025-04-18 13:39:35.611 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_framework/MudBlazorCrmApp.Blazor.4zprfbt9iu.wasm.gz - 200 2972 application/wasm 25.897ms
+2025-04-18 13:39:35.612 +00:00 [INF] Request starting HTTP/1.1 GET https://localhost:5026/_framework/dotnet.runtime.js.map - null null
+2025-04-18 13:39:35.613 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_framework/MudBlazorCrmApp.Blazor.1a99a1uxte.pdb - null null
+2025-04-18 13:39:35.627 +00:00 [INF] Sending file. Request path: '/_framework/MudBlazorCrmApp.Shared.1vokl0zhq7.pdb.gz'. Physical path: 'C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Blazor\obj\Debug\net9.0\compressed\qk95lfc4o7-1vokl0zhq7.gz'
+2025-04-18 13:39:35.627 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_framework/MudBlazorCrmApp.Shared.1vokl0zhq7.pdb.gz - 200 9668 application/octet-stream 110.0578ms
+2025-04-18 13:39:35.627 +00:00 [INF] Sending file. Request path: '/_framework/MudBlazorCrmApp.Shared.adgiqc3hn7.wasm.gz'. Physical path: 'C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Blazor\obj\Debug\net9.0\compressed\6nfh54ejms-adgiqc3hn7.gz'
+2025-04-18 13:39:35.628 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_framework/MudBlazorCrmApp.Shared.adgiqc3hn7.wasm.gz - 200 10793 application/wasm 42.8478ms
+2025-04-18 13:39:35.628 +00:00 [INF] Sending file. Request path: '/_framework/MudBlazorCrmApp.Blazor.1a99a1uxte.pdb.gz'. Physical path: 'C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Blazor\obj\Debug\net9.0\compressed\icdupci9i5-1a99a1uxte.gz'
+2025-04-18 13:39:35.628 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_framework/MudBlazorCrmApp.Blazor.1a99a1uxte.pdb.gz - 200 7469 application/octet-stream 15.7996ms
+2025-04-18 13:39:35.642 +00:00 [INF] Sending file. Request path: '/_framework/dotnet.runtime.js.map.gz'. Physical path: 'C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Blazor\obj\Debug\net9.0\compressed\8h8aiz12tz-4b0q7hpvp2.gz'
+2025-04-18 13:39:35.643 +00:00 [INF] Request finished HTTP/1.1 GET https://localhost:5026/_framework/dotnet.runtime.js.map.gz - 200 87747 text/plain 30.7633ms
+2025-04-18 13:39:35.715 +00:00 [INF] Sending file. Request path: '/_framework/MudBlazorCrmApp.Shared.Blazor.9dvikf7y8o.wasm.gz'. Physical path: 'C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Blazor\obj\Debug\net9.0\compressed\buzxc6uphg-9dvikf7y8o.gz'
+2025-04-18 13:39:35.715 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_framework/MudBlazorCrmApp.Shared.Blazor.9dvikf7y8o.wasm.gz - 200 227084 application/wasm 156.975ms
+2025-04-18 13:39:35.716 +00:00 [INF] Sending file. Request path: '/_framework/MudBlazorCrmApp.Shared.Blazor.5iqmb5z7vb.pdb.gz'. Physical path: 'C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Blazor\obj\Debug\net9.0\compressed\yd27582hcr-5iqmb5z7vb.gz'
+2025-04-18 13:39:35.716 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_framework/MudBlazorCrmApp.Shared.Blazor.5iqmb5z7vb.pdb.gz - 200 321695 application/octet-stream 222.8352ms
+2025-04-18 13:39:37.434 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_framework/blazor-hotreload - null null
+2025-04-18 13:39:37.435 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_framework/blazor-hotreload - 204 null null 1.5422ms
+2025-04-18 13:39:38.308 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/_content/MudBlazorCrmApp.Shared.Blazor/lib/roboto/files/roboto-latin-700-normal.woff2 - null null
+2025-04-18 13:39:38.309 +00:00 [INF] The file /_content/MudBlazorCrmApp.Shared.Blazor/lib/roboto/files/roboto-latin-700-normal.woff2 was not modified
+2025-04-18 13:39:38.309 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/_content/MudBlazorCrmApp.Shared.Blazor/lib/roboto/files/roboto-latin-700-normal.woff2 - 304 null font/woff2 1.3859ms
+2025-04-18 13:39:41.006 +00:00 [INF] Request starting HTTP/2 GET https://localhost:5026/service-worker.js - null null
+2025-04-18 13:39:41.031 +00:00 [INF] Sending file. Request path: '/service-worker.js'. Physical path: 'C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Blazor\obj\Debug\net9.0\service-worker\service-worker.js.build'
+2025-04-18 13:39:41.031 +00:00 [INF] Request finished HTTP/2 GET https://localhost:5026/service-worker.js - 200 303 text/javascript 24.81ms

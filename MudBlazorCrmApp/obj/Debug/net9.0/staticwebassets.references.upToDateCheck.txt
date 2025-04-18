@@ -1,0 +1,4 @@
+C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Blazor\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Shared.Blazor\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Blazor\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Jonny\Source\Repos\MudBlazorCrmApp\MudBlazorCrmApp.Shared.Blazor\obj\Debug\net9.0\staticwebassets.build.json

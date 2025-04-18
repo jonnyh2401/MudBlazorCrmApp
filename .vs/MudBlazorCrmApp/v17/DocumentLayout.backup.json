@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jonny\\source\\repos\\MudBlazorCrmApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7799F-9B15-49ED-8E5C-7D92A346E328}|MudBlazorCrmApp\\MudBlazorCrmApp.csproj|c:\\users\\jonny\\source\\repos\\mudblazorcrmapp\\mudblazorcrmapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C7799F-9B15-49ED-8E5C-7D92A346E328}|MudBlazorCrmApp\\MudBlazorCrmApp.csproj|solutionrelative:mudblazorcrmapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7799F-9B15-49ED-8E5C-7D92A346E328}|MudBlazorCrmApp\\MudBlazorCrmApp.csproj|c:\\users\\jonny\\source\\repos\\mudblazorcrmapp\\mudblazorcrmapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C7799F-9B15-49ED-8E5C-7D92A346E328}|MudBlazorCrmApp\\MudBlazorCrmApp.csproj|solutionrelative:mudblazorcrmapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jonny\\source\\repos\\MudBlazorCrmApp\\MudBlazorCrmApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MudBlazorCrmApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Jonny\\source\\repos\\MudBlazorCrmApp\\MudBlazorCrmApp\\Data\\ApplicationDbContext.cs*",
+              "RelativeToolTip": "MudBlazorCrmApp\\Data\\ApplicationDbContext.cs*",
+              "ViewState": "AgIAACYAAAAAANAUQm4awDUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:37:02.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jonny\\source\\repos\\MudBlazorCrmApp\\MudBlazorCrmApp\\Program.cs",
+              "RelativeDocumentMoniker": "MudBlazorCrmApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Jonny\\source\\repos\\MudBlazorCrmApp\\MudBlazorCrmApp\\Program.cs",
+              "RelativeToolTip": "MudBlazorCrmApp\\Program.cs",
+              "ViewState": "AgIAAFwAAAAAAACscnwawCoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:44:47.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

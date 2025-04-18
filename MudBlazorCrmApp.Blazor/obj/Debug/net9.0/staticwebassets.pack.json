@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Blazor\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MudBlazorCrmApp.Blazor.styles.css",
+      "PackagePath": "staticwebassets\\MudBlazorCrmApp.Blazor.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Blazor\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Blazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Blazor\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Blazor\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Blazor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Blazor\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MudBlazorCrmApp.Blazor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MudBlazorCrmApp.Blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MudBlazorCrmApp.Blazor.props",
+      "PackagePath": "build\\MudBlazorCrmApp.Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MudBlazorCrmApp.Blazor.props",
+      "PackagePath": "buildMultiTargeting\\MudBlazorCrmApp.Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MudBlazorCrmApp.Blazor.props",
+      "PackagePath": "buildTransitive\\MudBlazorCrmApp.Blazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

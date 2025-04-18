@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MudBlazorCrmApp.Shared.Blazor.props" />
+</Project>

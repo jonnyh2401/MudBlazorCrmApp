@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FDh/hNXhaVQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Shared\\MudBlazorCrmApp.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonny\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
