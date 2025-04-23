@@ -22,6 +22,8 @@
     <PackageReference Include="Serilog.Sinks.File" Version="6.0.0" />
     <PackageReference Include="Serilog.Sinks.RollingFile" Version="3.3.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="8.1.1" />
+    <PackageReference Include="Syncfusion.Blazor.Schedule" Version="29.1.39" />
+    <PackageReference Include="Syncfusion.Blazor.Themes" Version="29.1.39" />
   </ItemGroup>
 
   <ItemGroup>

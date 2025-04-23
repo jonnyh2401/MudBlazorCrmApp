@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <PackageReference Include="CsvHelper" Version="33.0.1" />
+    <PackageReference Include="Syncfusion.Blazor.Schedule" Version="29.1.39" />
+    <PackageReference Include="Syncfusion.Blazor.Themes" Version="29.1.39" />
   </ItemGroup>
 
 </Project>

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8SNfsZr/5xM=",
+  "dgSpecHash": "GRMBGBUHYV0=",
   "success": true,
   "projectFilePath": "C:\\Users\\Jonny\\Source\\Repos\\MudBlazorCrmApp\\MudBlazorCrmApp.Blazor\\MudBlazorCrmApp.Blazor.csproj",
   "expectedPackageFiles": [
@@ -36,7 +36,23 @@
     "C:\\Users\\Jonny\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.4\\microsoft.net.illink.tasks.9.0.4.nupkg.sha512",
     "C:\\Users\\Jonny\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.4\\microsoft.net.sdk.webassembly.pack.9.0.4.nupkg.sha512",
     "C:\\Users\\Jonny\\.nuget\\packages\\mudblazor\\8.5.1\\mudblazor.8.5.1.nupkg.sha512",
-    "C:\\Users\\Jonny\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.4\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.4.nupkg.sha512"
+    "C:\\Users\\Jonny\\.nuget\\packages\\syncfusion.blazor.buttons\\29.1.39\\syncfusion.blazor.buttons.29.1.39.nupkg.sha512",
+    "C:\\Users\\Jonny\\.nuget\\packages\\syncfusion.blazor.calendars\\29.1.39\\syncfusion.blazor.calendars.29.1.39.nupkg.sha512",
+    "C:\\Users\\Jonny\\.nuget\\packages\\syncfusion.blazor.core\\29.1.39\\syncfusion.blazor.core.29.1.39.nupkg.sha512",
+    "C:\\Users\\Jonny\\.nuget\\packages\\syncfusion.blazor.data\\29.1.39\\syncfusion.blazor.data.29.1.39.nupkg.sha512",
+    "C:\\Users\\Jonny\\.nuget\\packages\\syncfusion.blazor.dropdowns\\29.1.39\\syncfusion.blazor.dropdowns.29.1.39.nupkg.sha512",
+    "C:\\Users\\Jonny\\.nuget\\packages\\syncfusion.blazor.inputs\\29.1.39\\syncfusion.blazor.inputs.29.1.39.nupkg.sha512",
+    "C:\\Users\\Jonny\\.nuget\\packages\\syncfusion.blazor.lists\\29.1.39\\syncfusion.blazor.lists.29.1.39.nupkg.sha512",
+    "C:\\Users\\Jonny\\.nuget\\packages\\syncfusion.blazor.navigations\\29.1.39\\syncfusion.blazor.navigations.29.1.39.nupkg.sha512",
+    "C:\\Users\\Jonny\\.nuget\\packages\\syncfusion.blazor.notifications\\29.1.39\\syncfusion.blazor.notifications.29.1.39.nupkg.sha512",
+    "C:\\Users\\Jonny\\.nuget\\packages\\syncfusion.blazor.popups\\29.1.39\\syncfusion.blazor.popups.29.1.39.nupkg.sha512",
+    "C:\\Users\\Jonny\\.nuget\\packages\\syncfusion.blazor.schedule\\29.1.39\\syncfusion.blazor.schedule.29.1.39.nupkg.sha512",
+    "C:\\Users\\Jonny\\.nuget\\packages\\syncfusion.blazor.spinner\\29.1.39\\syncfusion.blazor.spinner.29.1.39.nupkg.sha512",
+    "C:\\Users\\Jonny\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\29.1.39\\syncfusion.blazor.splitbuttons.29.1.39.nupkg.sha512",
+    "C:\\Users\\Jonny\\.nuget\\packages\\syncfusion.blazor.themes\\29.1.39\\syncfusion.blazor.themes.29.1.39.nupkg.sha512",
+    "C:\\Users\\Jonny\\.nuget\\packages\\syncfusion.excelexport.net.core\\29.1.39\\syncfusion.excelexport.net.core.29.1.39.nupkg.sha512",
+    "C:\\Users\\Jonny\\.nuget\\packages\\syncfusion.licensing\\29.1.39\\syncfusion.licensing.29.1.39.nupkg.sha512",
+    "C:\\Users\\Jonny\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
   ],
   "logs": []
 }

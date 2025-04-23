@@ -15,6 +15,7 @@ using MudBlazorCrmApp.Models;
 using MudBlazorCrmApp.Services;
 using MudBlazorCrmApp.Shared.Models;
 using Serilog;
+using Syncfusion.Blazor;
 
 Environment.CurrentDirectory = AppContext.BaseDirectory;
 
@@ -88,6 +89,8 @@ builder.Services.AddSwaggerGen(options =>
         }
     });
 });
+
+
 
 builder.Services.AddAuthorization();
 

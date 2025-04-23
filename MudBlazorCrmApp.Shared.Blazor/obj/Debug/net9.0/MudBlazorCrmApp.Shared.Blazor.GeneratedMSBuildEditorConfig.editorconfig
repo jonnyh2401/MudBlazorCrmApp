@@ -187,6 +187,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Jonny/Source/Repos/MudBlazorCrmApp/MudBlazorCrmApp.Shared.Blazor/Pages/Scheduler.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NoZWR1bGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Jonny/Source/Repos/MudBlazorCrmApp/MudBlazorCrmApp.Shared.Blazor/Pages/UpdateAddress.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBkYXRlQWRkcmVzcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
